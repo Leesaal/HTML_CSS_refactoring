@@ -1,20 +1,26 @@
 # Code Refactor Starter Code
 
+## Table of contents
+
 [Description](#description)
 
-![Installation](#installation)
+[Installation](#installation)
 
-![Usage](#usage)
+[Usage](#usage)
 
-![Credits](#credits)
+[Credits](#credits)
 
-![Screenshot](#screenshot)
+[Link to Github](#link-to-github)
 
-![License](#license)
+[Screenshot](#screenshot)
 
-![Features](#features)
+[License](#license)
 
-![Tests](#tests)
+[Features](#features)
+
+[Tests](#tests)
+
+[Contact](#contact-me)
 
 ## Description
 
@@ -37,7 +43,13 @@ This code can be used to view the horiseon webpage. The HTML and CSS code also s
 
 N/A
 
+## Link to Github
+
+[Link](https://github.com/Leesaal/HTML_CSS_refactoring)
+
 ## Screenshot
+
+![Screenshot 2023-05-12 at 13 23 19 (2)](https://github.com/Leesaal/HTML_CSS_refactoring/assets/118930290/ca61c632-24a5-4654-80b6-ad2b0ca3e2d6)
 
 ## License
 
@@ -55,3 +67,8 @@ This code features:
 ## Tests
 
 There are no tests currently.
+
+## Contact me
+
+If there are any bugs found with the project, or you would like to get in touch, you can email me at:
+leesaali7@gmail.com
